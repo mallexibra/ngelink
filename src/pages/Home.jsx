@@ -5,19 +5,19 @@ function Home() {
     {
       id: 1,
       head: "Tiktok Account",
-      link: "Lkndslknd",
+      link: "https://www.tiktok.com/@mallexibra",
       paragraf: "Content Programming on TikTok",
     },
     {
       id: 2,
       head: "Youtube Channel",
-      link: "Lkndslknd",
+      link: "https://www.youtube.com/@mallexibra/",
       paragraf: "Content Programming on Youtube",
     },
     {
       id: 3,
       head: "Group Telegram",
-      link: "Lkndslknd",
+      link: "https://t.me/Mallexibra",
       paragraf: "I have a Group Telegram for Sharing Coding and Technology",
     },
   ];
