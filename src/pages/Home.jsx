@@ -22,7 +22,7 @@ function Home() {
     },
   ];
   return (
-    <div className='link-app'>
+    <div className='link-app font-poppins'>
       {links.map((link) => {
         return (
           <a
